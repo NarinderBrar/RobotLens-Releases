@@ -66,6 +66,11 @@ The last command must report a good signature from
 C12C EF4A 49E7 83A1 2D6F  AD26 44E2 9058 8B60 7342
 ```
 
+## Community
+
+Questions, bug reports, feedback and showcases are welcome on the
+[RobotLens Discord](https://discord.gg/Yaawrg3BbJ).
+
 ## License
 
 RobotLens is free for personal, educational and non-commercial academic use.
