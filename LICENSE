@@ -1,0 +1,89 @@
+RobotLens License
+
+Copyright (c) 2026 Narinder Brar. All rights reserved.
+
+1. Ownership
+
+RobotLens (the "Software") is proprietary software owned by the copyright
+holder. The Software is licensed, not sold. Only the compiled program is
+provided; the source code is not licensed or distributed.
+
+2. Free Non-Commercial License
+
+Subject to these terms, the copyright holder grants you a free, worldwide,
+non-exclusive, non-transferable, revocable license to install and use
+unmodified copies of the Software for Non-Commercial Use.
+
+"Non-Commercial Use" means:
+
+  a) personal or hobby use by an individual;
+  b) education, including teaching, studying, and coursework at schools,
+     colleges, and universities; and
+  c) academic research at universities or non-profit research institutions,
+     where the results are not owned by or delivered to a commercial entity.
+
+3. Commercial Use
+
+Any use that is not Non-Commercial Use is "Commercial Use" and requires a
+separate commercial license from the copyright holder. Commercial Use
+includes, without limitation:
+
+  a) use by or on behalf of a company or other for-profit organization,
+     including internal research, development, testing, and evaluation;
+  b) use in paid work or services for clients; and
+  c) use to develop, test, operate, or support a commercial product or
+     service.
+
+To obtain a commercial license, contact RobotLens at https://robotlens.dev.
+
+4. Restrictions
+
+You may not, and may not permit others to:
+
+  a) copy the Software, except as needed to install and use it under these
+     terms;
+  b) distribute, publish, sell, rent, lease, lend, sublicense, host, or
+     otherwise make the Software available to any third party, including
+     bundling it with other products or offering it for download;
+  c) modify, adapt, translate, or create derivative works of the Software;
+  d) reverse engineer, decompile, or disassemble the Software, except to the
+     extent that applicable law expressly permits this despite this
+     limitation; or
+  e) remove or alter any copyright, license, or proprietary notices in the
+     Software.
+
+The Software may be obtained only from https://robotlens.dev or another
+source authorized by the copyright holder.
+
+5. Changes
+
+The copyright holder may change these terms for future versions of the
+Software, may offer future versions under different or paid terms, and may
+discontinue the Software at any time. Each version is governed by the terms
+supplied with it.
+
+6. Termination
+
+This license ends automatically if you breach any of its terms. When it
+ends, you must stop using the Software and delete all copies of it.
+
+7. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE SOFTWARE IS NOT
+DESIGNED OR CERTIFIED FOR CONTROLLING PHYSICAL ROBOTS IN SAFETY-CRITICAL
+SETTINGS, AND YOU ARE SOLELY RESPONSIBLE FOR ANY SUCH USE.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+9. Third-Party Components
+
+Third-party components included with the Software are governed by their own
+licenses. See THIRD_PARTY_NOTICES.md for details. Nothing in this license
+limits your rights under those licenses.
