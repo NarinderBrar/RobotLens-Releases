@@ -7,6 +7,12 @@ source code is not published.
 Download the latest version from the
 [Releases page](https://github.com/NarinderBrar/RobotLens-Releases/releases).
 
+## Get started
+
+1. [Download and install RobotLens](https://robotlens.dev/download/) for Ubuntu 24.04 and ROS 2 Jazzy.
+2. [Explore example projects](https://github.com/NarinderBrar/RobotLens-Projects) for robot setups and simulation scenarios. Check each project's README for prerequisites and setup before running it.
+3. [Join the RobotLens Discord](https://discord.gg/Yaawrg3BbJ) to ask questions, share projects, report bugs, and suggest improvements.
+
 ## What is RobotLens?
 
 RobotLens brings your robot's topology, live data, 3D world, simulation, logs
